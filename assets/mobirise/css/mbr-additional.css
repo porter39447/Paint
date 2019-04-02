@@ -1775,11 +1775,16 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/img-383-2000x1500.jpg");
+  background-image: url("../../../assets/images/w5-1920x1080.jpg");
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
+}
+.cid-qTkA127IK8 H1 {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
